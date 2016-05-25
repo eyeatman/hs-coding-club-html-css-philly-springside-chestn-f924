@@ -29,7 +29,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #ffff00;
 }
 
 h1,
@@ -65,21 +65,21 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #001a4d;
 }
 
 hr.star-light:after {
-    color: #fff;
-    background-color: #18bc9c;
+    color: #ffffff;
+    background-color: #ff0000;
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: #fff;
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
-    background-color: #fff;
+    color: #ff0000;
+    background-color: #ffffff;
 }
 
 .img-centered {
@@ -89,7 +89,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #ff0000;
 }
 
 header .container {
@@ -187,8 +187,8 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
-    background: #18bc9c;
+    color: #ffffff;
+    background: #ff0000;
 }
 
 @media(max-width:767px) {
@@ -272,7 +272,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #18bc9;
     background: #fff;
 }
 
